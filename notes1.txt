@@ -3,4 +3,4 @@ Hi Team
 This is our GitHub foolder for storing our class project documents and code.
 
 Regards
-KKKKArthik
+Karthik
