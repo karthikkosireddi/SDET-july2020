@@ -1,6 +1,6 @@
 Hi Team
 
-This is our GitHub foolder for storing our class project documents and code.
+This is our GitHub folder for storing our class project documents and code.
 
 Regards
 Karthik
